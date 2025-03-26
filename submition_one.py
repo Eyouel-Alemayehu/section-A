@@ -1,0 +1,10 @@
+a="hello World"
+b=str.upper(a)
+c=str.lower(a)
+d=str.title(a)
+e=str.capitalize(a)
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
